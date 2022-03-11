@@ -1,9 +1,9 @@
 // Copyright (c) 2022 Hunter Connolly All rights reserved
 //
 // Created by: Hunter Connolly
-// March 9, 2022
-// This program calculates the area and perimeter of
-// a rectangle by asking the user for length and width
+// March 11, 2022
+// This program asks the user for the diameter of their pizza
+// It the calculates the total cost of the pizza including tax
 
 #include <iostream>
 #include <iomanip>
